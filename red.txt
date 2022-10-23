@@ -1,2 +1,6 @@
 red
+<<<<<<< HEAD
 green
+=======
+blue
+>>>>>>> branch1
